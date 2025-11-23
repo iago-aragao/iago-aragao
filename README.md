@@ -1,43 +1,69 @@
-# Olá!👋
+<div align="center">
 
-Me chamo Iago, sou estudante de **Gestão de Dados** na Universidade Federal do Piauí no Brasil.  
-Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **NLP**.
-Meu github é direcionado a publicação de projetos com aplicabilidade real no mercado para fortalecer meu portfólio.
+# Hello! 👋 I'm Iago
 
----
-## Meus Ideais
-- Acredito que devo ensinar para realmente aprender. Por isso, viso sempre criar projetos didáticos.
-- A falta de materiais atualizados em português sempre foi um obstáculo para muitos de meus colegas, e mesmo tendo bom domínio do inglês, também encontro dificuldade para localizar alguns conteúdos. Por isso, decidi optar, disponibilizar sempre uma tradução em PT-BR nos meus repositorios.
-- Meus projetos devem ser realistas, com funcionalidades de verdade e usando dados que se aproximam o máximo possível da realidade.
+### Data Management Student | NLP & Machine Learning Enthusiast
 
----
+<!-- LANGUAGE SWITCHER -->
+[![Read in Portuguese](https://img.shields.io/badge/Read%20in-Portuguese-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white)](README_PT.md)
 
-## Atualmente, estou...
--  Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.
--  Engenheiro de dados no projeto “I Speak Kanoê”, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
--  Aperfeiçoando meu Modelo de Análise de Risco de Crédito.
--  Estudando artigos científicos e aplicando suas metodologias em projetos no GitHub.  
--  Estudando Google Cloud e expandindo conhecimentos em tecnologias de nuvem.
+<!-- TECH STACK BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML">
+</p>
+
+</div>
 
 ---
 
-## Conquistas Recentes
-- Alcancei **0.90 de F1-Score** no meu classificador de discurso de ódio.  
-- Desenvolvi um modelo com **98% de acurácia** na detecção de produtos fora do padrão de fabricação.
-- Alcancei **AUC-ROC: 0.7256** com XGBOOST no Modelo de Análise de Risco de Crédito.
-- Criei um **Agente Inteligente** de logistica. Capaz de interpretar pedidos desestruturados (via
-WhatsApp/Texto) otimizando automáticamente rotas, eliminando a triagem manual.
-- Projetei uma arquitetura multi-agente capaz de varrer tendencias virais em redes sociais para gerar insights de novos produtos alimentícios.
+## About Me
+I am a **Data Management** student at the Federal University of Piauí (UFPI) in Brazil.
+My studies focus primarily on **Python** and **SQL**, and I have a strong personal interest in **Machine Learning** and **NLP**.
+My GitHub is dedicated to publishing projects with real-world applicability to strengthen my portfolio.
 
 ---
 
-## Projetos em Destaque
-- **Hatespeech_Detection_Civil_Comments_NLP** — Detecção multiclass utilizando CNN + BI-LSTM.  
-- **Manufacturing-Defect-Detector** — Detecção de anomalias em imagens com CNN.
-- **Risk-Engine-AI-Investment-Advisor** - Detecção de risco na concessão de credito
+## My Philosophy
+*   **Teach to Learn:** I believe that to truly learn, one must teach. Therefore, I always aim to create didactic projects.
+*   **Accessibility:** The scarcity of updated resources in Portuguese has always been an obstacle for many of my peers. Even though I am proficient in English, I understand the difficulty of finding certain content. For this reason, I have decided to always provide a PT-BR translation in my repositories.
+*   **Realism:** My projects must be realistic, featuring real functionalities and using data that approximates reality as much as possible.
 
 ---
 
-## Contato
-- **LinkedIn:** https://www.linkedin.com/in/iago-aragao  
-- **Email:** iago.aragao@ufpi.edu.br
+## Currently, I am...
+*   Participating in an Undergraduate Research Project regarding NLP models for hate speech detection and classification.
+*   Working as a Data Engineer on the **"I Speak Kanoê"** project, dedicated to contributing to the restoration of Brazilian indigenous languages.
+*   Refining my **Credit Risk Analysis Model**.
+*   Studying scientific papers and applying their methodologies to GitHub projects.
+*   Studying **Google Cloud** and expanding my knowledge in cloud technologies.
+
+---
+
+## Recent Achievements
+*   Achieved **0.90 F1-Score** in my Hate Speech Classifier.
+*   Developed a model with **98% Accuracy** in detecting manufacturing defects (products out of standard).
+*   Achieved **AUC-ROC: 0.7256** with XGBoost in the Credit Risk Analysis Model.
+*   Created a **Logistics Intelligent Agent** capable of interpreting unstructured orders (via WhatsApp/Text), automatically optimizing routes and eliminating manual sorting.
+*   Designed a **Multi-Agent Architecture** capable of scanning viral trends on social media to generate insights for new food products.
+
+---
+
+## Featured Projects
+*   **Hatespeech_Detection_Civil_Comments_NLP** — Multiclass detection using CNN + BI-LSTM.
+*   **Manufacturing-Defect-Detector** — Anomaly detection in images using CNN.
+*   **Risk-Engine-AI-Investment-Advisor** — Risk detection in credit granting.
+
+---
+
+## Contact
+<p align="left">
+  <a href="https://www.linkedin.com/in/iago-aragao">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:iago.aragao@ufpi.edu.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
