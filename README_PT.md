@@ -59,6 +59,8 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
 ---
 
 ## Contato
+Para ver mais do meu trabalho cheque os destaques **"Pinned"** na pagina inical do perfil ou meus repositorios.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-aragao">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
