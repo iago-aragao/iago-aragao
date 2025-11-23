@@ -34,5 +34,5 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 ---
 
 ## Contato
-- **LinkedIn:** www.linkedin.com/in/iago-aragão-789821321  
+- **LinkedIn:** https://www.linkedin.com/in/iago-aragao  
 - **Email:** iagoaragao88@gmail.com
