@@ -35,4 +35,4 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 
 ## Contato
 - **LinkedIn:** https://www.linkedin.com/in/iago-aragao  
-- **Email:** iagoaragao88@gmail.com
+- **Email:** iago.aragao@ufpi.edu.br
