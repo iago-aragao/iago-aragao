@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML">
 </p>
 
-<img src="https://i.imgur.com/hCtnlIn.png" alt="Classification Report" width="100%">
 
 </div>
 
