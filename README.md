@@ -86,7 +86,7 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 
 | Course | Status | Certificate |
 | :--- | :---: | :---: |
-| 💻 CS50x | 🔴 Not Started | 🔒 |
+| 💻 CS50x | 🟡 In Progress | 🔒 |
 | 🐍 CS50P | 🔴 Not Started | 🔒 |
 | 🗄️ CS50 SQL | 🔴 Not Started | 🔒 |
 | 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
