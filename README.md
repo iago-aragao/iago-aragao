@@ -43,7 +43,7 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 
 ## Roadmap
 
- 🎓 Harvard CS50: All Courses (2025-2026)
+##🎓 Harvard CS50: All Courses (2025-2026)
 
 > **Goal:** Complete the entire CS50 ecosystem (6 courses) in 7 months.
 >
@@ -53,11 +53,11 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 
 <!-- AQUI COMEÇA A PARTE RETRÁTIL -->
 <details>
-  <summary><strong>▼ Click to see my current progress & Curriculum</strong></summary>
+  <summary><strong> Click to see my current progress & Curriculum</strong></summary>
   
   <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
 
-| Current Phase: Phase 1 - The Foundation 🏗️ Focus: Algorithmic thinking & Python mastery |
+| Current Phase: Phase 1 - The Foundation Focus: Algorithmic thinking & Python mastery |
 | :--- |
 
 #### Phase 1: Logic & Language (From November/25 to January/26)
