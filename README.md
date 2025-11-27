@@ -43,7 +43,7 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 
 ## Roadmap
 
-## 🎓 Harvard CS50: Intensive Track (2025-2026)
+# 🎓 Harvard CS50: Intensive Track (2025-2026)
 
 > **Goal:** Complete the entire CS50 ecosystem (6 courses) in 7 months.
 >
@@ -53,15 +53,20 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 
 <br>
 
-### ▼ Click to see my current progress & Curriculum
+<!-- AQUI COMEÇA A PARTE RETRÁTIL -->
+<details>
+  <summary><strong>▼ Click to see my current progress & Curriculum</strong></summary>
+  
+  <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
+
 | Current Phase: Phase 1 - The Foundation 🏗️ Focus: Algorithmic thinking & Python mastery |
 | :--- |
 
 #### Phase 1: Logic & Language (From November/25 to January/26)
 
 - [ ] **CS50x: Introduction to Computer Science**
-  - [ ] Week 0-5 (C, Memory, Data Structures)
-  - [ ] Week 6-10 (Python, SQL, Web)
+- [ ] Week 0-5 (C, Memory, Data Structures)
+- [ ] Week 6-10 (Python, SQL, Web)
 - [ ] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
 - [ ] 🚧 **Milestone Project 1:** CS50x Final Project
 
@@ -74,10 +79,13 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 #### Phase 3: Systems & Intelligence (From April/26 to June/26)
 
 - [ ] **CS50 Web: Web Programming with Python and JavaScript**
-  - [ ] Django, React, CI/CD
+- [ ] Django, React, CI/CD
 - [ ] **CS50 AI: Introduction to Artificial Intelligence with Python**
-  - [ ] Search, Neural Networks, NLP
+- [ ] Search, Neural Networks, NLP
 - [ ] 🏁 **Capstone Project 3:** Full Stack AI-Powered Application
+
+</details>
+<!-- AQUI TERMINA A PARTE RETRÁTIL -->
 
 <br>
 
@@ -93,14 +101,6 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 | 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
 | 🌐 CS50 Web | 🔴 Not Started | 🔒 |
 | 🧠 CS50 AI | 🔴 Not Started | 🔒 |
-
-<!--
-Status Legend:
-🔴 Not Started
-🟡 In Progress
-🟢 Completed
--->
-
 
 ---
 
