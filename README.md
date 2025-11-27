@@ -84,13 +84,6 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 - [ ] Search, Neural Networks, NLP
 - [ ] 🏁 **Capstone Project 3:** Full Stack AI-Powered Application
 
-</details>
-<!-- AQUI TERMINA A PARTE RETRÁTIL -->
-
-<br>
-
----
-
 ### 📚 Study Log & Notes
 
 | Course | Status | Certificate |
@@ -101,6 +94,11 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 | 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
 | 🌐 CS50 Web | 🔴 Not Started | 🔒 |
 | 🧠 CS50 AI | 🔴 Not Started | 🔒 |
+
+</details>
+<!-- AQUI TERMINA A PARTE RETRÁTIL -->
+
+<br>
 
 ---
 
