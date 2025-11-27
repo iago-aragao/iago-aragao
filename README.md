@@ -39,6 +39,67 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 *   Refining my **Credit Risk Analysis Model**.
 *   Studying scientific papers and applying their methodologies to GitHub projects.
 *   Studying **Google Cloud** and expanding my knowledge in cloud technologies.
+*   Work on Roadmap
+
+## Roadmap
+# 🎓 Harvard CS50: Intensive Track (2025-2026)
+
+> **Goal:** Complete the entire CS50 ecosystem (6 courses) in 7 months.
+>
+> 📅 **Timeline:** November 25, 2025 — June 30, 2026
+>
+> 🔥 **Intensity:** High (Daily immersion)
+
+<br>
+
+### ▼ Click to see my current progress & Curriculum
+| Current Phase: Phase 1 - The Foundation 🏗️ Focus: Algorithmic thinking & Python mastery |
+| :--- |
+
+#### Phase 1: Logic & Language (From November/25 to January/26)
+
+- [ ] **CS50x: Introduction to Computer Science**
+  - [ ] Week 0-5 (C, Memory, Data Structures)
+  - [ ] Week 6-10 (Python, SQL, Web)
+- [ ] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
+- [ ] 🚧 **Milestone Project 1:** CS50x Final Project
+
+#### Phase 2: Data & Defense (From February/26 to March/26)
+
+- [ ] **CS50 SQL: Introduction to Databases with SQL**
+- [ ] **CS50 Cybersecurity: Introduction to Cybersecurity**
+- [ ] 🚧 **Milestone Project 2:** Robust Database Implementation
+
+#### Phase 3: Systems & Intelligence (From April/26 to June/26)
+
+- [ ] **CS50 Web: Web Programming with Python and JavaScript**
+  - [ ] Django, React, CI/CD
+- [ ] **CS50 AI: Introduction to Artificial Intelligence with Python**
+  - [ ] Search, Neural Networks, NLP
+- [ ] 🏁 **Capstone Project 3:** Full Stack AI-Powered Application
+
+<br>
+
+---
+
+### 📚 Study Log & Notes
+
+| Course | Status | Certificate |
+| :--- | :---: | :---: |
+| 💻 CS50x | 🔴 Not Started | 🔒 |
+| 🐍 CS50P | 🔴 Not Started | 🔒 |
+| 🗄️ CS50 SQL | 🔴 Not Started | 🔒 |
+| 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
+| 🌐 CS50 Web | 🔴 Not Started | 🔒 |
+| 🧠 CS50 AI | 🔴 Not Started | 🔒 |
+
+<!--
+Status Legend:
+🔴 Not Started
+🟡 In Progress
+🟢 Completed
+-->
+
 
 ---
 
