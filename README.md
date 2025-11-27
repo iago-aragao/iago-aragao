@@ -43,7 +43,7 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 
 ## Roadmap
 
-# 🎓 Harvard CS50: Intensive Track (2025-2026)
+ 🎓 Harvard CS50: Intensive Track (2025-2026)
 
 > **Goal:** Complete the entire CS50 ecosystem (6 courses) in 7 months.
 >
