@@ -36,7 +36,7 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 ## Currently, I am...
 *   Participating in an Undergraduate Research Project regarding NLP models for hate speech detection and classification.
 *   Working as a Data Engineer on the **"I Speak Kanoê"** project, dedicated to contributing to the restoration of Brazilian indigenous languages.
-*   Work on Roadmap
+*   Working on Roadmap
 
 ## Roadmap
 
