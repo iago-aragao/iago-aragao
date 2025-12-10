@@ -37,9 +37,9 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
 ## Atualmente, estou...
 *   Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.
 *   Atuando como Engenheiro de Dados no projeto **“I Speak Kanoê”**, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
-*   Aperfeiçoando meu **Modelo de Análise de Risco de Crédito**.
-*   Estudando artigos científicos e aplicando suas metodologias em projetos no GitHub.
-*   Estudando **Google Cloud** e expandindo conhecimentos em tecnologias de nuvem.
+*   Seguindo o Roadmap
+
+
 
 ---
 
