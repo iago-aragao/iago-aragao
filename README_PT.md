@@ -39,6 +39,62 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
 *   Atuando como Engenheiro de Dados no projeto **“I Speak Kanoê”**, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
 *   Seguindo o Roadmap
 
+## Roadmap
+
+## 🎓 Harvard CS50: Todos os Cursos (2025-2026)
+
+> **Objetivo:** Completar todos os cursos do ecosistema CS50 (6 cursos) em 7 meses.
+>
+> 📅 **Linha do tempo:** Novembro 25, 2025 — Junho 30, 2026
+
+<br>
+
+<!-- AQUI COMEÇA A PARTE RETRÁTIL -->
+<details>
+  <summary><strong> Click para ver o progresso atual & Curriculo</strong></summary>
+  
+  <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
+
+| Current Phase: Phase 1 - The Foundation Focus: Algorithmic thinking & Python mastery |
+| :--- |
+
+#### Phase 1: Logic & Language (From November/25 to January/26)
+
+- [ ] **CS50x: Introduction to Computer Science**
+- [ ] Week 0-5 (C, Memory, Data Structures)
+- [ ] Week 6-10 (Python, SQL, Web)
+- [ ] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
+- [ ] 🚧 **Milestone Project 1:** CS50x Final Project
+
+#### Phase 2: Data & Defense (From February/26 to March/26)
+
+- [ ] **CS50 SQL: Introduction to Databases with SQL**
+- [ ] **CS50 Cybersecurity: Introduction to Cybersecurity**
+- [ ] 🚧 **Milestone Project 2:** Robust Database Implementation
+
+#### Phase 3: Systems & Intelligence (From April/26 to June/26)
+
+- [ ] **CS50 Web: Web Programming with Python and JavaScript**
+- [ ] Django, React, CI/CD
+- [ ] **CS50 AI: Introduction to Artificial Intelligence with Python**
+- [ ] Search, Neural Networks, NLP
+- [ ] 🏁 **Capstone Project 3:** Full Stack AI-Powered Application
+
+### 📚 Study Log & Notes
+
+| Course | Status | Certificate |
+| :--- | :---: | :---: |
+| 💻 CS50x | 🟡 In Progress | 🔒 |
+| 🐍 CS50P | 🔴 Not Started | 🔒 |
+| 🗄️ CS50 SQL | 🔴 Not Started | 🔒 |
+| 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
+| 🌐 CS50 Web | 🔴 Not Started | 🔒 |
+| 🧠 CS50 AI | 🔴 Not Started | 🔒 |
+
+</details>
+<!-- AQUI TERMINA A PARTE RETRÁTIL -->
+
+<br>
 
 
 ---
