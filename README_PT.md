@@ -55,30 +55,30 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
   
   <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
 
-| Current Phase: Phase 1 - The Foundation Focus: Algorithmic thinking & Python mastery |
+| Fase Atual: Fase 1 - Base: Lógica de programação e Domínio de Linguas |
 | :--- |
 
-#### Phase 1: Logic & Language (From November/25 to January/26)
+#### Phase 1: Logica & Linguas (De Novembro/25 a Janeiro/26)
 
 - [ ] **CS50x: Introduction to Computer Science**
-- [ ] Week 0-5 (C, Memory, Data Structures)
-- [ ] Week 6-10 (Python, SQL, Web)
-- [ ] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
-- [ ] 🚧 **Milestone Project 1:** CS50x Final Project
+- [ ] Semanas 0-5 (C, Memória, Estruturas de Dados)
+- [ ] Semanas 6-10 (Python, SQL, Web)
+- [ ] CS50P: Introdução à Programação com Python (Iniciar após a Semana 6 do CS50x)
+- [ ] 🚧 **Projeto Marco 1:** Projeto Final do CS50x
 
-#### Phase 2: Data & Defense (From February/26 to March/26)
+#### Fase 2: Dados e Defesa (De Fevereiro/26 a Março/26)
 
 - [ ] **CS50 SQL: Introduction to Databases with SQL**
 - [ ] **CS50 Cybersecurity: Introduction to Cybersecurity**
-- [ ] 🚧 **Milestone Project 2:** Robust Database Implementation
+- [ ] 🚧 **Projeto Marco 2:** Implementação Robusta de Banco de Dados
 
-#### Phase 3: Systems & Intelligence (From April/26 to June/26)
+#### Fase 3: Sistemas e Inteligência (De Abril/26 a Junho/26)
 
 - [ ] **CS50 Web: Web Programming with Python and JavaScript**
 - [ ] Django, React, CI/CD
-- [ ] **CS50 AI: Introduction to Artificial Intelligence with Python**
+- [ ] **CS50 AI: Introdução à Inteligência Artificial com Python**
 - [ ] Search, Neural Networks, NLP
-- [ ] 🏁 **Capstone Project 3:** Full Stack AI-Powered Application
+- [ ] 🏁 **Projeto Final 3 (Capstone):** Aplicação Full Stack Baseada em IA
 
 ### 📚 Study Log & Notes
 
