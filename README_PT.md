@@ -60,8 +60,8 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
 
 #### Phase 1: Logica & Linguas (De Novembro/25 a Janeiro/26)
 
-- [ ] **CS50x: Introduction to Computer Science**
-- [ ] Semanas 0-5 (C, Memória, Estruturas de Dados)
+- [x] **CS50x: Introduction to Computer Science**
+- [x] Semanas 0-5 (C, Memória, Estruturas de Dados)
 - [ ] Semanas 6-10 (Python, SQL, Web)
 - [ ] CS50P: Introdução à Programação com Python (Iniciar após a Semana 6 do CS50x)
 - [ ] 🚧 **Projeto Marco 1:** Projeto Final do CS50x
