@@ -2,7 +2,7 @@
 
 # Olá! 👋 Me chamo Iago
 
-### Estudante de Gestão de Dados | Entusiasta de NLP & Machine Learning
+### Data Enginner | NLP & RAG
 
 <!-- LANGUAGE SWITCHER -->
 [![Read in English](https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
