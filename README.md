@@ -2,7 +2,7 @@
 
 # Hello! 👋 I'm Iago
 
-### Machine Learning  | NLP & RAG
+### Data Enginner | NLP & RAG
 
 <!-- LANGUAGE SWITCHER -->
 [![Read in Portuguese](https://img.shields.io/badge/Read%20in-Portuguese-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white)](README_PT.md)
