@@ -54,16 +54,16 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
   
   <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
 
-| Current Phase: Phase 1 - The Foundation Focus: Algorithmic thinking & Python mastery |
+| Current Phase: Phase 2 - Data & Defense (From February/26 to March/26) |
 | :--- |
 
 #### Phase 1: Logic & Language (From November/25 to January/26)
 
 - [x] **CS50x: Introduction to Computer Science**
 - [x] Week 0-5 (C, Memory, Data Structures)
-- [ ] Week 6-10 (Python, SQL, Web)
-- [ ] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
-- [ ] 🚧 **Milestone Project 1:** CS50x Final Project
+- [x] Week 6-10 (Python, SQL, Web)
+- [x] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
+- [x] 🚧 **Milestone Project 1:** CS50x Final Project
 
 #### Phase 2: Data & Defense (From February/26 to March/26)
 
