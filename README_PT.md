@@ -84,12 +84,12 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
 
 | Course | Status | Certificate |
 | :--- | :---: | :---: |
-| 💻 CS50x | 🟢 In Progress | 🔒 |
+| 💻 CS50x | 🟢 Concluded | 🔒 |
 | 🐍 CS50P | 🔴 Not Started | 🔒 |
 | 🗄️ CS50 SQL | 🔴 Not Started | 🔒 |
 | 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
 | 🌐 CS50 Web | 🔴 Not Started | 🔒 |
-| 🧠 CS50 AI | 🟡 Not Started | 🔒 |
+| 🧠 CS50 AI | 🟡 In Progress | 🔒 |
 
 </details>
 <!-- AQUI TERMINA A PARTE RETRÁTIL -->
