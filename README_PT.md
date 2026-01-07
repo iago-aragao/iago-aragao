@@ -55,16 +55,16 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
   
   <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
 
-| Fase Atual: Fase 1 - Base: Lógica de programação e Domínio de Linguas |
+| Fase Atual: Fase 2: Dados e Defesa |
 | :--- |
 
 #### Phase 1: Logica & Linguas (De Novembro/25 a Janeiro/26)
 
 - [x] **CS50x: Introduction to Computer Science**
 - [x] Semanas 0-5 (C, Memória, Estruturas de Dados)
-- [ ] Semanas 6-10 (Python, SQL, Web)
-- [ ] CS50P: Introdução à Programação com Python (Iniciar após a Semana 6 do CS50x)
-- [ ] 🚧 **Projeto Marco 1:** Projeto Final do CS50x
+- [x] Semanas 6-10 (Python, SQL, Web)
+- [x] CS50P: Introdução à Programação com Python (Iniciar após a Semana 6 do CS50x)
+- [x] 🚧 **Projeto Marco 1:** Projeto Final do CS50x
 
 #### Fase 2: Dados e Defesa (De Fevereiro/26 a Março/26)
 
@@ -84,12 +84,12 @@ Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no
 
 | Course | Status | Certificate |
 | :--- | :---: | :---: |
-| 💻 CS50x | 🟡 In Progress | 🔒 |
+| 💻 CS50x | 🟢 In Progress | 🔒 |
 | 🐍 CS50P | 🔴 Not Started | 🔒 |
 | 🗄️ CS50 SQL | 🔴 Not Started | 🔒 |
 | 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
 | 🌐 CS50 Web | 🔴 Not Started | 🔒 |
-| 🧠 CS50 AI | 🔴 Not Started | 🔒 |
+| 🧠 CS50 AI | 🟡 Not Started | 🔒 |
 
 </details>
 <!-- AQUI TERMINA A PARTE RETRÁTIL -->
