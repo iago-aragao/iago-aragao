@@ -38,78 +38,21 @@ My GitHub is dedicated to publishing projects with real-world applicability to s
 *   Working as a Data Engineer on the ["I Speak Kanoê"](https://huggingface.co/datasets/carpenterbb/i-speak-kanoe) project, dedicated to contributing to the restoration of Brazilian indigenous languages.
 *   Working on Roadmap
 
-## Roadmap
-
-## 🎓 Harvard CS50: All Courses (2025-2026)
-
-> **Goal:** Complete the entire CS50 ecosystem (6 courses) in 7 months.
->
-> 📅 **Timeline:** November 25, 2025 — June 30, 2026
-
-<br>
-
-<!-- AQUI COMEÇA A PARTE RETRÁTIL -->
-<details>
-  <summary><strong> Click to see my current progress & Curriculum</strong></summary>
-  
-  <br> <!-- Pular linha é importante para o markdown funcionar dentro do HTML -->
-
-| Current Phase: Phase 2 - Data & Defense (From February/26 to March/26) |
-| :--- |
-
-#### Phase 1: Logic & Language (From November/25 to January/26)
-
-- [x] **CS50x: Introduction to Computer Science**
-- [x] Week 0-5 (C, Memory, Data Structures)
-- [x] Week 6-10 (Python, SQL, Web)
-- [x] **CS50P: Introduction to Programming with Python** (Start after CS50x Week 6)
-- [x] 🚧 **Milestone Project 1:** CS50x Final Project
-
-#### Phase 2: Data & Defense (From February/26 to March/26)
-
-- [ ] **CS50 SQL: Introduction to Databases with SQL**
-- [ ] **CS50 Cybersecurity: Introduction to Cybersecurity**
-- [ ] 🚧 **Milestone Project 2:** Robust Database Implementation
-
-#### Phase 3: Systems & Intelligence (From April/26 to June/26)
-
-- [ ] **CS50 Web: Web Programming with Python and JavaScript**
-- [ ] Django, React, CI/CD
-- [ ] **CS50 AI: Introduction to Artificial Intelligence with Python**
-- [ ] Search, Neural Networks, NLP
-- [ ] 🏁 **Capstone Project 3:** Full Stack AI-Powered Application
-
-### 📚 Study Log & Notes
-
-| Course | Status | Certificate |
-| :--- | :---: | :---: |
-| 💻 CS50x | 🟢 Complete | 🔒 |
-| 🐍 CS50P | 🔴 Not Started | 🔒 |
-| 🗄️ CS50 SQL | 🔴 Not Started | 🔒 |
-| 🛡️ CS50 Cyber | 🔴 Not Started | 🔒 |
-| 🌐 CS50 Web | 🔴 Not Started | 🔒 |
-| 🧠 CS50 AI | 🟡 Not Started | 🔒 |
-
-</details>
-<!-- AQUI TERMINA A PARTE RETRÁTIL -->
-
-<br>
-
 ---
 
 ## Recent Achievements
-*   Achieved **0.90 F1-Score** in my Hate Speech Classifier.
-*   Developed a model with **98% Accuracy** in detecting manufacturing defects (products out of standard).
-*   Achieved **AUC-ROC: 0.7256** with XGBoost in the Credit Risk Analysis Model.
-*   Created a **Logistics Intelligent Agent** capable of interpreting unstructured orders (via WhatsApp/Text), automatically optimizing routes and eliminating manual sorting.
-*   Designed a **Multi-Agent Architecture** capable of scanning viral trends on social media to generate insights for new food products.
+*   
+*   
+*   
+*   
+*   
 
 ---
 
 ## Featured Projects
-*   **Hatespeech_Detection_Civil_Comments_NLP** — Multiclass detection using CNN + BI-LSTM.
-*   **Manufacturing-Defect-Detector** — Anomaly detection in images using CNN.
-*   **Risk-Engine-AI-Investment-Advisor** — Risk detection in credit granting.
+*  
+* 
+* 
 
 ---
 
