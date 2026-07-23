@@ -5,11 +5,14 @@
 ### Data Management student focused on Machine Learning, Data Engineering, and Generative AI
 
 <p>
-  <a href="README_PT.md">
-    <img src="https://img.shields.io/badge/Read%20in-Portuguese-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in Portuguese">
-  </a>
   <a href="https://umbura.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-umbura.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p>
+  <a href="README_PT.md">
+    <img src="https://img.shields.io/badge/Read%20in-Portuguese-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in Portuguese">
   </a>
 </p>
 
@@ -70,6 +73,12 @@ For a curated view of my projects, context, screenshots, and contact information
 
 - **Modelos Lexicais Calibrados para Detecção de Ofensividade em Português Brasileiro: um Estudo no ToLD-Br**<br>
   SBBD 2026 Short Papers - accepted paper, with proceedings publication expected.
+
+---
+
+## Published Articles
+
+Coming soon. Accepted papers will be linked here after their official publication in the SBBD/SBC proceedings.
 
 ---
 

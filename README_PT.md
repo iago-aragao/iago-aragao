@@ -5,11 +5,14 @@
 ### Estudante de Gestão de Dados com foco em Machine Learning, Engenharia de Dados e IA Generativa
 
 <p>
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
-  </a>
   <a href="https://umbura.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-umbura.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
   </a>
 </p>
 
@@ -70,6 +73,12 @@ Para uma visão mais organizada dos meus projetos, com contexto, imagens e infor
 
 - **Modelos Lexicais Calibrados para Detecção de Ofensividade em Português Brasileiro: um Estudo no ToLD-Br**<br>
   SBBD 2026 Short Papers - artigo aceito, com publicação prevista nos anais.
+
+---
+
+## Artigos Publicados
+
+Em breve. Os artigos aceitos serão adicionados aqui quando a publicação definitiva estiver disponível nos anais oficiais do SBBD/SBC.
 
 ---
 
