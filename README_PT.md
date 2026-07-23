@@ -1,63 +1,79 @@
 <div align="center">
 
-# Olá! 👋 Me chamo Iago
+# Olá! Me chamo Iago Aragão
 
-### Data Enginner | NLP & RAG
+### Estudante de Gestão de Dados com foco em Machine Learning, Engenharia de Dados e IA Generativa
 
-<!-- LANGUAGE SWITCHER -->
-[![Read in English](https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
-
-<!-- TECH STACK BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
+  </a>
+  <a href="https://umbura.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-umbura.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=openai&logoColor=white" alt="RAG">
+</p>
 
 </div>
 
 ---
 
 ## Sobre Mim
-Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí (UFPI), no Brasil.
-Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **NLP**.
-Meu GitHub é direcionado à publicação de projetos com aplicabilidade real no mercado para fortalecer meu portfólio.
+
+Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí (UFPI), com foco em **Machine Learning**, **Engenharia de Dados** e aplicações com **IA Generativa**.
+
+Desenvolvo projetos práticos em Python, FastAPI, Airflow, RAG e modelagem preditiva, com ênfase em validação de resultados, qualidade de dados e construção de sistemas orientados a decisão.
+
+Para uma visão mais organizada dos meus projetos, com contexto, imagens e informações de contato, acesse meu portfólio técnico:
+
+**Portfólio:** [umbura.github.io](https://umbura.github.io/)
 
 ---
 
-## Meus Ideais
-*   **Ensinar para aprender:** Acredito que devo ensinar para realmente aprender. Por isso, viso sempre criar projetos didáticos.
-*   **Acessibilidade:** A falta de materiais atualizados em português sempre foi um obstáculo para muitos de meus colegas e, mesmo tendo bom domínio do inglês, também encontro dificuldade para localizar alguns conteúdos. Por isso, decidi disponibilizar sempre uma tradução em PT-BR nos meus repositórios.
-*   **Realismo:** Meus projetos devem ser realistas, com funcionalidades de verdade e usando dados que se aproximam o máximo possível da realidade.
+## Foco Atual
 
----
-
-## Atualmente, estou...
-*   Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.
-*   Atuando como Engenheiro de Dados no projeto **“I Speak Kanoê”**, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
-*   Seguindo o Roadmap
----
-
-## Conquistas Recentes
-*   
-*   
-*   
-*  
-*   
+- Desenvolvimento de backends de dados e ML com FastAPI, Airflow, DuckDB, SQL, RAG e validação automatizada.
+- Experimentos de Machine Learning aplicado envolvendo preparação de dados, avaliação estatística e validação de resultados.
+- Pesquisa em NLP, datasets para línguas de baixo recurso e detecção de ofensividade em português brasileiro.
+- Documentação dos repositórios em inglês e português sempre que possível.
 
 ---
 
 ## Projetos em Destaque
-*   
-*   
-*   
+
+- **[FraudRisk Engine](https://github.com/Umbura/fraud-risk-engine)**<br>
+  Backend para score de risco de fraude com FastAPI, XGBoost, análise real em holdout OpenML, métricas por orçamento de revisão, auditoria e monitoramento de drift.
+
+- **[Airflow Data Quality Pipeline](https://github.com/Umbura/airflow-data-quality-pipeline)**<br>
+  Pipeline de qualidade de dados para varejo com orquestração Airflow, warehouse DuckDB, acesso via FastAPI e 25 validações críticas.
+
+- **[QueryGuard RAG](https://github.com/Umbura/queryguard-rag)**<br>
+  Backend Text-to-SQL com catálogo semântico, recuperação de schema, validações de segurança, execução somente leitura, logs de auditoria e avaliação local.
+
+- **[AI Ops Approval Workflow](https://github.com/Umbura/ai-ops-approval-workflow)**<br>
+  Triagem operacional assistida por IA com aprovação humana, auditoria, suporte a OpenAI Responses API e orquestração com n8n.
+
+---
+
+## Pesquisa e Artigos Aceitos
+
+- **I Speak Kanoê: Engineering a Dataset for an Endangered Isolated Language**<br>
+  SBBD 2026 DSW - artigo aceito, com publicação prevista nos anais.<br>
+  Link: [Hugging Face](https://huggingface.co/datasets/carpenterbb/i-speak-kanoe)
+
+- **Modelos Lexicais Calibrados para Detecção de Ofensividade em Português Brasileiro: um Estudo no ToLD-Br**<br>
+  SBBD 2026 Short Papers - artigo aceito, com publicação prevista nos anais.
 
 ---
 
 ## Contato
-Para ver mais do meu trabalho cheque os destaques **"Pinned"** na pagina inical do perfil ou meus repositorios.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-aragao">
@@ -65,5 +81,8 @@ Para ver mais do meu trabalho cheque os destaques **"Pinned"** na pagina inical 
   </a>
   <a href="mailto:iago.aragao@ufpi.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://umbura.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
