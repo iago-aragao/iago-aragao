@@ -5,7 +5,7 @@
 ### Estudante de Gestão de Dados com foco em Machine Learning, Engenharia de Dados e IA Generativa
 
 <p>
-  <a href="https://umbura.github.io/">
+  <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-umbura.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -36,7 +36,7 @@ Desenvolvo projetos práticos em Python, FastAPI, Airflow, RAG e modelagem predi
 
 Para uma visão mais organizada dos meus projetos, com contexto, imagens e informações de contato, acesse meu portfólio técnico:
 
-**Portfólio:** [umbura.github.io](https://umbura.github.io/)
+**Portfólio:** <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">umbura.github.io</a>
 
 ---
 
@@ -91,7 +91,7 @@ Em breve. Os artigos aceitos serão adicionados aqui quando a publicação defin
   <a href="mailto:iago.aragao@ufpi.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://umbura.github.io/">
+  <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
