@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello! I'm Iago Aragão
+# Olá! Me chamo Iago Aragão
 
-### Data Management student focused on Machine Learning, Data Engineering, and Generative AI
+### Estudante de Gestão de Dados com foco em Machine Learning, Engenharia de Dados e IA Generativa
 
 <p>
   <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
@@ -11,8 +11,8 @@
 </p>
 
 <p>
-  <a href="README_PT.md">
-    <img src="https://img.shields.io/badge/Read%20in-Portuguese-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in Portuguese">
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
   </a>
 </p>
 
@@ -28,61 +28,61 @@
 
 ---
 
-## About Me
+## Sobre Mim
 
-I am a **Data Management** student at the Federal University of Piauí (UFPI), focused on **Machine Learning**, **Data Engineering**, and **Generative AI** applications.
+Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí (UFPI), com foco em **Machine Learning**, **Engenharia de Dados** e aplicações com **IA Generativa**.
 
-I build practical projects in Python, FastAPI, Airflow, RAG, and predictive modeling, with emphasis on result validation, data quality, and decision-oriented systems.
+Desenvolvo projetos práticos em Python, FastAPI, Airflow, RAG e modelagem preditiva, com ênfase em validação de resultados, qualidade de dados e construção de sistemas orientados a decisão.
 
-For a curated view of my projects, context, screenshots, and contact information, visit my technical portfolio:
+Para uma visão mais organizada dos meus projetos, com contexto, imagens e informações de contato, acesse meu portfólio técnico:
 
-**Portfolio:** <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">umbura.github.io</a>
-
----
-
-## Current Focus
-
-- Building data and ML backend projects with FastAPI, Airflow, DuckDB, SQL, RAG, and automated validation.
-- Developing applied Machine Learning experiments involving data preparation, statistical evaluation, and result validation.
-- Working on research related to NLP, low-resource language datasets, and offensiveness detection in Brazilian Portuguese.
-- Keeping my repositories documented in English and Portuguese whenever possible.
+**Portfólio:** <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">umbura.github.io</a>
 
 ---
 
-## Selected Projects
+## Foco Atual
+
+- Desenvolvimento de backends de dados e ML com FastAPI, Airflow, DuckDB, SQL, RAG e validação automatizada.
+- Experimentos de Machine Learning aplicado envolvendo preparação de dados, avaliação estatística e validação de resultados.
+- Pesquisa em NLP, datasets para línguas de baixo recurso e detecção de ofensividade em português brasileiro.
+- Documentação dos repositórios em inglês e português sempre que possível.
+
+---
+
+## Projetos em Destaque
 
 - **[FraudRisk Engine](https://github.com/Umbura/fraud-risk-engine)**<br>
-  Fraud-risk scoring backend with FastAPI, XGBoost, real OpenML holdout analysis, review-budget metrics, audit workflow, and drift monitoring.
+  Backend para score de risco de fraude com FastAPI, XGBoost, análise real em holdout OpenML, métricas por orçamento de revisão, auditoria e monitoramento de drift.
 
 - **[Airflow Data Quality Pipeline](https://github.com/Umbura/airflow-data-quality-pipeline)**<br>
-  Retail data quality pipeline with Airflow orchestration, DuckDB warehouse artifacts, FastAPI result access, and 25 critical validation checks.
+  Pipeline de qualidade de dados para varejo com orquestração Airflow, warehouse DuckDB, acesso via FastAPI e 25 validações críticas.
 
 - **[QueryGuard RAG](https://github.com/Umbura/queryguard-rag)**<br>
-  Semantic-first Text-to-SQL backend with schema retrieval, SQL guardrails, read-only execution, audit logs, and local evaluation.
+  Backend Text-to-SQL com catálogo semântico, recuperação de schema, validações de segurança, execução somente leitura, logs de auditoria e avaliação local.
 
 - **[AI Ops Approval Workflow](https://github.com/Umbura/ai-ops-approval-workflow)**<br>
-  AI-assisted operational request triage with human approval, audit logging, OpenAI Responses API support, and n8n orchestration.
+  Triagem operacional assistida por IA com aprovação humana, auditoria, suporte a OpenAI Responses API e orquestração com n8n.
 
 ---
 
-## Research and Accepted Papers
+## Pesquisa e Artigos Aceitos
 
 - **I Speak Kanoê: Engineering a Dataset for an Endangered Isolated Language**<br>
-  SBBD 2026 DSW - accepted paper, with proceedings publication expected.<br>
+  SBBD 2026 DSW - artigo aceito, com publicação prevista nos anais.<br>
   Link: [Hugging Face](https://huggingface.co/datasets/carpenterbb/i-speak-kanoe)
 
 - **Modelos Lexicais Calibrados para Detecção de Ofensividade em Português Brasileiro: um Estudo no ToLD-Br**<br>
-  SBBD 2026 Short Papers - accepted paper, with proceedings publication expected.
+  SBBD 2026 Short Papers - artigo aceito, com publicação prevista nos anais.
 
 ---
 
-## Published Articles
+## Artigos Publicados
 
-Coming soon. Accepted papers will be linked here after their official publication in the SBBD/SBC proceedings.
+Em breve. Os artigos aceitos serão adicionados aqui quando a publicação definitiva estiver disponível nos anais oficiais do SBBD/SBC.
 
 ---
 
-## Contact
+## Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-aragao">
