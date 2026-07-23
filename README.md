@@ -2,7 +2,7 @@
 
 # Olá! Me chamo Iago Aragão
 
-### Estudante de Gestão de Dados com foco em Machine Learning, Engenharia de Dados e IA Generativa
+### Machine Learning Engineer com foco em NLP, Deep Learning, Engenharia de Dados e IA Generativa
 
 <p>
   <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
@@ -30,7 +30,9 @@
 
 ## Sobre Mim
 
-Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí (UFPI), com foco em **Machine Learning**, **Engenharia de Dados** e aplicações com **IA Generativa**.
+Atuo como **Machine Learning Engineer** especializado em **NLP** e **Deep Learning**, com foco em **Machine Learning**, **Engenharia de Dados** e aplicações com **IA Generativa**.
+
+Minha formação acadêmica é no Curso Superior de Tecnologia em **Gestão de Dados** pela Universidade Federal do Piauí (UFPI).
 
 Desenvolvo projetos práticos em Python, FastAPI, Airflow, RAG e modelagem preditiva, com ênfase em validação de resultados, qualidade de dados e construção de sistemas orientados a decisão.
 

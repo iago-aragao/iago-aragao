@@ -2,7 +2,7 @@
 
 # Hello! I'm Iago Aragão
 
-### Data Management student focused on Machine Learning, Data Engineering, and Generative AI
+### Machine Learning Engineer focused on NLP, Deep Learning, Data Engineering, and Generative AI
 
 <p>
   <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
@@ -30,7 +30,9 @@
 
 ## About Me
 
-I am a **Data Management** student at the Federal University of Piauí (UFPI), focused on **Machine Learning**, **Data Engineering**, and **Generative AI** applications.
+I work as a **Machine Learning Engineer** specializing in **NLP** and **Deep Learning**, with focus on **Machine Learning**, **Data Engineering**, and **Generative AI** applications.
+
+My academic background is in Data Management at the Federal University of Piauí (UFPI).
 
 I build practical projects in Python, FastAPI, Airflow, RAG, and predictive modeling, with emphasis on result validation, data quality, and decision-oriented systems.
 
