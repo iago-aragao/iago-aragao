@@ -10,6 +10,8 @@
   </a>
 </p>
 
+<sub>Perfil revisado em 27/07/2026.</sub>
+
 <p>
   <a href="README_EN.md">
     <img src="https://img.shields.io/badge/Read%20in-English-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
