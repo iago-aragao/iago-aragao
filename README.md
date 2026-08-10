@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<sub>Perfil revisado em 27/07/2026.</sub>
+<sub>Perfil revisado em 09/08/2026.</sub>
 
 <p>
   <a href="README_EN.md">
