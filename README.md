@@ -5,8 +5,8 @@
 ### Profissional em formação em Gestão de Dados, com foco em Machine Learning, Engenharia de Dados e IA Generativa
 
 <p>
-  <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-umbura.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  <a href="https://iago-aragao.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-iago--aragao.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Desenvolvo projetos práticos em Python, FastAPI, Airflow, RAG e modelagem predi
 
 Para uma visão mais organizada dos meus projetos, com contexto, imagens e informações de contato, acesse meu portfólio técnico:
 
-**Portfólio:** <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">umbura.github.io</a>
+**Portfólio:** <a href="https://iago-aragao.github.io/" target="_blank" rel="noopener noreferrer">iago-aragao.github.io</a>
 
 ---
 
@@ -53,16 +53,16 @@ Para uma visão mais organizada dos meus projetos, com contexto, imagens e infor
 
 ## Projetos em Destaque
 
-- **[FraudRisk Engine](https://github.com/Umbura/fraud-risk-engine)**<br>
+- **[FraudRisk Engine](https://github.com/iago-aragao/fraud-risk-engine)**<br>
   Backend para score de fraude com FastAPI e XGBoost, integrando revisão humana, auditoria e monitoramento de drift. Em holdout temporal com 42.722 transações reais, detectou 44 de 52 fraudes, com 84,6% de recall e apenas 0,817% das transações encaminhadas para revisão.
 
-- **[Airflow Data Quality Pipeline](https://github.com/Umbura/airflow-data-quality-pipeline)**<br>
+- **[Airflow Data Quality Pipeline](https://github.com/iago-aragao/airflow-data-quality-pipeline)**<br>
   Pipeline de dados de varejo com Airflow, DuckDB e FastAPI, cobrindo ingestão, validação, transformação e publicação. Processou 541.909 registros, aprovou 25/25 verificações de qualidade, gerou 4 marts analíticos e inclui 35 testes automatizados com 94% de cobertura.
 
-- **[QueryGuard RAG](https://github.com/Umbura/queryguard-rag)**<br>
+- **[QueryGuard RAG](https://github.com/iago-aragao/queryguard-rag)**<br>
   Backend Text-to-SQL governado por catálogo semântico, com políticas por função, bloqueio de dados sensíveis, validação via sqlglot, execução somente leitura e auditoria. Alcançou 50/50 casos na avaliação determinística e 5/5 no fallback com LLM, com 72 testes automatizados.
 
-- **[AI Ops Approval Workflow](https://github.com/Umbura/ai-ops-approval-workflow)**<br>
+- **[AI Ops Approval Workflow](https://github.com/iago-aragao/ai-ops-approval-workflow)**<br>
   Triagem operacional assistida por IA com aprovação humana, auditoria, suporte a OpenAI Responses API e orquestração com n8n.
 
 ---
@@ -93,7 +93,7 @@ Em breve. Os artigos aceitos serão adicionados aqui quando a publicação defin
   <a href="mailto:iagoaragao88@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://umbura.github.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://iago-aragao.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
